@@ -16,6 +16,10 @@ html {
     width:40%;
 }
 
+.whoweare {
+    text-shadow: 2px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
 .bottom {
     height:100px;
 }
@@ -264,8 +268,8 @@ nav {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    color: #000;
+    background: url(../img/openroad.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
